@@ -1,0 +1,17 @@
+# datasets (never push)
+Dataset_final/
+Dataset_split/
+dataset_preprocessed/
+
+# images
+*.jpg
+*.jpeg
+*.png
+
+# python
+__pycache__/
+*.pyc
+
+# env / system
+.env
+.DS_Store
