@@ -15,3 +15,25 @@ __pycache__/
 # env / system
 .env
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+venv_tf/
+
+# Model files
+*.h5
+
+# Annotation & generated data
+annotations/
+all_images/
+all_masks/
+leaf_only/
+mildew_masks/
+
+# OS files
+.DS_Store
+Thumbs.db
